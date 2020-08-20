@@ -2,19 +2,20 @@
 Imaginemos un supermercado de barrio.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza lo siguiente por consola y se termina la ejecución:
 
-<b>Nombre: Coca-Cola Zero /// Litros: 1.5 /// Precio: $20 </b>
+```Nombre: Coca-Cola Zero /// Litros: 1.5 /// Precio: $20 
 
-<b>Nombre: Coca-Cola /// Litros: 1.5 /// Precio: $18 </b>
+Nombre: Coca-Cola /// Litros: 1.5 /// Precio: $18
 
-<b>Nombre: Shampoo Sedal /// Contenido: 500ml /// Precio: $19 </b>
+Nombre: Shampoo Sedal /// Contenido: 500ml /// Precio: $19 
 
-<b>Nombre: Frutillas /// Precio: $64 /// Unidad de venta: kilo </b>
+Nombre: Frutillas /// Precio: $64 /// Unidad de venta: kilo 
 
-<b>============================= </b>
+=============================
 
-<b>Producto más caro: Frutillas </b>
+Producto más caro: Frutillas
 
-<b>Producto más barato: Coca-Cola </b>
+Producto más barato: Coca-Cola
+```
 
 
 La solución debe cumplir con los siguientes requisitos:
